@@ -40,8 +40,8 @@ addons:
     - libproj-dev
     - gdal-bin
     - libsqlite3-mod-spatialite
-    - libsqlite3-0: "3.11.0"
-    - spatialite-bin: "4.3.0"
+    - libsqlite3-0: "3.11"
+    - spatialite-bin
     - libspatialite7
 
 cache:
